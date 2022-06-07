@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+li{
+    list-style-type: none;
+
+}
+
+
+.rodape{
+    position: absolute;
+    width: 100%;
+    align-items: center;
+    max-width: 310px;
+    min-height: 118vh;
+    background-color: #18181c;
+}
+
+.container{
+    text-align: center;
+}
+
+.logo{
+    padding: 29px 0 76px 0;
+}
+
+.menu1{
+    font-size: 13px;
+    font-weight: 400;
+    text-align:left;
+    color: white;
+    margin-left: 48px;
+}
+
+#home{
+    background-color: #99896e;
+    padding: 15px 27px 15px 50px;
+    margin-left: -50px;
+
+}
+
+a:hover {
+    text-decoration: none;
+    outline: none;
+    color: #9c9ca9;
+    transition: all .4s ease-in-out;
+    transition-property: all;
+    transition-duration: 0.4s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+}
+
+.menu1 li{
+    padding: 15px 0px 15px 0px;
+}
+
+.filter{
+    color:#99896e;
+    font-size: 15.5px;
+   margin-bottom: 20px;
+   margin-top: 41px;
+}
+
+.menu2{
+    font-size: 13px;
+    font-weight: 400;
+    text-align:left;
+    color: white;
+    margin-left: 48px;
+}
+
+#all{background-color: #99896e;
+    padding: 10px 20px 10px 50px;
+    margin-left: -50px;}
+
+.menu2 li{padding: 10px 0px 15px 0px;}
+
+table{
+    position: absolute;
+   margin: 10px 0px 0px 350px;
+}
+
+.grid1{
+    position: absolute;
+    padding-top: 3em;
+    min-width: 50em;
+    min-height: 70em;
+    margin-left: 22em;
+    
+}
+
+.img1{ float: left;
+    height: 45rem;}
+
+.img2{float: left;
+    height: 22rem;
+    width: 47rem;}
+
+.img3{float: left;
+    height: 22rem;}
+
+.img4{float: left;
+    height: 23rem;}
+
+.img5{float: left;
+    height: 23rem;
+    width: 24rem;}
+
+.img6{float: left;
+    height: 23rem;
+    width: 22rem;}
+
+.img7{  float: left;
+    width: 22.5rem;}
+
+.img8{float: left;
+    width: 23rem;
+    height: 22.5rem;}
+
+.img9{ float: left;
+    width: 46rem;
+    height: 22.5rem;}
+
+ .rs{
+     text-align: center;
+     padding-top: 18em;
+ }
+
+.li1{display: inline-block;
+padding-left: 8px;
+}
+
+.cor{color:#99896e;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.label{text-align: center;
+padding-top: 3.5rem ;}
